@@ -42,7 +42,7 @@
     "jest-cli": "23.6.0",
     "react-scripts": "latest",
     "testcafe": "^1.1.0",
-    "webpack": "^4.29.6"
+    "webpack": "4.28.3"
   },
   "browserslist": [
     ">0.2%",
