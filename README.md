@@ -20,6 +20,6 @@
     npm install -g testcafe
     
     
-**Install testcafe:**
+**Run:**
     
     testcafe chrome src/e2e/e2e.js 
