@@ -1,12 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const TextInput = ({name, value, placeholder, onChange}) => {
+const TextInput = ({name, type = 'text', value, placeholder, onChange}) => {
   return (
     <input
       className="form-control"
       name={name}
-      type="text"
+      type={type}
       placeholder={placeholder}
       value={value}
       onChange={onChange}/>
