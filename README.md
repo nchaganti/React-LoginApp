@@ -9,6 +9,11 @@
 
     npm run start
 
+**Valid Login Credentials:**
+
+    UserName: test
+    Password: test
+
 **To run Unit Tests:**
 
     npm run test
